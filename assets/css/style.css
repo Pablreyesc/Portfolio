@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #ecf6ff;
 }
 
 a {
@@ -369,7 +369,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #0563bb;
 }
 
 .section-title h2::before {
@@ -541,7 +541,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  /*background: #f7f8f9;*/
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
